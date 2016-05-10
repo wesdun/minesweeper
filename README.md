@@ -1,2 +1,1 @@
-# typescript-seed
-seed for typescript, karma, jasmine
+# minesweeper kata
