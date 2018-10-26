@@ -1,1 +1,4 @@
 # minesweeper kata
+
+
+testing git
